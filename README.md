@@ -2,6 +2,8 @@
 
 This is a simple GUI application simulating driving a car. It was created during studies as a sample project.
 
+<img src="./app-view.png" data-canonical-src="./app-view.png" />
+
 ## Features
 - adding gas
 - braking
